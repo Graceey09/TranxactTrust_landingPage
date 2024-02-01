@@ -1,0 +1,196 @@
+body{
+    width: 1440px;
+    height: 1154px;
+    flex-shrink: 0;
+    background: linear-gradient(180deg, #EEF4FF 58.15%, rgba(238, 244, 255, 0.00) 84.32%);
+
+}
+
+.maindiv{
+    width: 1440px;
+    height: 84px;
+    flex-shrink: 0;
+    gap: 30px;
+    margin: 0px;
+}
+
+#logontext{
+    display: flex;
+    gap: 8px;
+}
+
+.headers{
+    display: flex;
+    justify-content: space-between;
+    width: 1440px;
+    flex-shrink: 0;
+    background: linear-gradient(180deg, #EEF4FF 58.15%, rgba(238, 244, 255, 0.00) 84.32%);
+}
+
+.anchors{
+    margin-top: 5px;
+    margin-left: 300px;
+    display: inline-flex;
+    align-items: center;
+    gap: 50px;
+    color: var(--Secondary-Colour-10, #010F2B);
+    font-family: Lato;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 30px;
+    display: inline-flex;
+    align-items: center;
+    gap: 50px;
+}
+
+.logo{
+    width: 40px;
+    height: 40.615px;
+    
+}
+
+#tranxact{
+    color: var(--Secondary-Colour-10, #010F2B);
+    font-family: Lato;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    letter-spacing: 0.48px;
+    margin-top: 8px;
+    height: 10px;
+}
+
+#x{
+    color: var(--primary-co-our-05, #FE6927);
+    font-family: Lato;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    letter-spacing: 0.48px;
+    width: 10px;
+    height: -10.615px;
+}
+
+.Log-sign-button{
+    display: flex;
+    padding: 15px;
+    justify-content: center;
+    align-items: center;
+    gap: 25px;
+}
+
+#login{
+    color: var(--Secondary-Colour-10, #010F2B);
+    background: linear-gradient(180deg, #EEF4FF 58.15%, rgba(238, 244, 255, 0.00) 84.32%);
+    display: inline-flex;
+    padding: 15px;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+    font-family: Lato;
+    font-weight: 300;
+    font-size: 15px;
+    border: none;
+    /* font-size: 20px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 10px;
+    letter-spacing: 1px;
+    height: 60px; */
+}
+
+#signup{
+    border-radius: 5px;
+    background: var(--Secondary-Colour-09, #023499);
+    box-shadow: 0px 10px 20px 0px rgba(1, 19, 55, 0.08);
+    color: var(--Neutral-white, #FDFDFD);
+    font-family: Lato;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: 30px;
+    letter-spacing: 1px;
+    border-radius: 5px;
+}
+
+#empower{
+    color: var(--Gray-Colour-10, #313D54);
+    font-family: Lato;
+    font-size: 61px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: 120%;
+    letter-spacing: 1px;
+}
+
+#trans{
+    color: var(--Secondary-Colour-06, #5686E7);
+    font-family: Lato;
+    font-size: 60px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    letter-spacing: 1.8px;
+    margin-top: -65px;
+}
+
+#x2{
+    color: var(--primary-co-our-05, #FE6927);
+    font-family: Lato;
+    font-size: 60px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    letter-spacing: 1.8px;
+}
+
+#generate{
+    color: var(--ui-text-03, #222);
+    font-family: Lato;
+    font-size: 28px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-top: -45px;
+}
+
+#create-account{
+    height: 60px;
+    padding: 20px;
+    justify-content: center;
+    align-items: stretch;
+    gap: 25px;
+    flex-shrink: 0;
+    border-radius: 5px;
+    font-family: Lato;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    letter-spacing: 0.3px;
+    background: var(--Secondary-Colour-09, #023499);
+    box-shadow: 0px 5px 10px 0px rgba(1, 19, 55, 0.10);
+    color: var(--Gray-Colour-01, #FCFCFD);
+}
+
+.mrkt-womn{
+    width: 450px;
+    flex-shrink: 0;
+    height: 507px;
+    flex-direction: column;
+    background-color: var(--color6);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 96px;       
+    align-self: stretch;
+}
+
+.part-2{
+    justify-content: end;
+    
+}
+
